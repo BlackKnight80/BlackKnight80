@@ -16,7 +16,7 @@
 
 ### 🔭 Мои проекты:
 
-- [Интернет-магазин строительных материалов](https://blackknight80.github.io/Shop/) - Веб-приложение для просмотра и заказа строительных материалов с адаптивным дизайном ([Код проекта](https://github.com/BlackKnight80/Shop))
+- [Интернет-магазин строительных материалов](https://blackknight80.github.io/Shop/) - Веб-приложение для просмотра и заказа строительных материалов с адаптивным дизайном
 
 ### 🌱 Сейчас изучаю:
 
@@ -40,4 +40,4 @@
 ---
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=blackknight80&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackknight80&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
