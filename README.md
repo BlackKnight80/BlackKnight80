@@ -12,16 +12,25 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
-### 🔭 Текущие проекты:
+### 🔭 Мои проекты:
 
-- [Интернет-магазин строительных материалов] - Веб-приложение для просмотра и заказа строительных материалов - В процессе
+- [Интернет-магазин строительных материалов](https://blackknight80.github.io/Shop/) - Веб-приложение для просмотра и заказа строительных материалов с адаптивным дизайном ([Код проекта](https://github.com/BlackKnight80/Shop))
 
 ### 🌱 Сейчас изучаю:
 
 - Node.js и Express
 - Тестирование React-компонентов
+- Redux для управления состоянием приложения
 
+### 💼 Ключевые навыки:
+
+- Разработка адаптивных пользовательских интерфейсов
+- Работа с REST API
+- Верстка по макетам из Figma
+- Компонентный подход в React
+- Использование Webpack для сборки проектов
 
 ### 📫 Как со мной связаться:
 
@@ -31,3 +40,4 @@
 ---
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=blackknight80&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackknight80&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
